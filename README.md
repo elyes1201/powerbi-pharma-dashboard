@@ -55,7 +55,7 @@ Ce projet couvre l'ensemble de la chaîne analytique : import des données, tran
  ┗ 📖 README.md                     # Documentation
 ```
 
-## 👤 Auteur
+## Auteur
 
-**Elyes** — Étudiant en Master Intelligence Artificielle en Santé  
+**Elyes BOUADMA** — Étudiant en Master Intelligence Artificielle en Santé  
 Centrale Lille / Université de Lille (ILIS)
